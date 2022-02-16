@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: eExams
 uid: fa676672-66b4-16cd-9070-c155e20ea095
 ---

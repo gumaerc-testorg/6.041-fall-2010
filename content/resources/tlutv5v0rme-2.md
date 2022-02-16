@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ab44f6d08f595638873423334e065959_TluTv5V0RmE.vtt
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ab44f6d08f595638873423334e065959_TluTv5V0RmE.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ab44f6d0-8f59-5638-8734-23334e065959

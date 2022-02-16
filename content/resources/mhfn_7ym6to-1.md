@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/38d3b9902b014854fb64736d8829c3d0_mHfn_7ym6to.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/38d3b9902b014854fb64736d8829c3d0_mHfn_7ym6to.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 38d3b990-2b01-4854-fb64-736d8829c3d0

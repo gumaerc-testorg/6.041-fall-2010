@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to Schwarz inequality and total probability theorem. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0291b43b6cddde48f9ff134272d498d7_MIT6_041F10_rec12_sol.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0291b43b6cddde48f9ff134272d498d7_MIT6_041F10_rec12_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_041F10_rec12_sol.pdf
 uid: 0291b43b-6cdd-de48-f9ff-134272d498d7
