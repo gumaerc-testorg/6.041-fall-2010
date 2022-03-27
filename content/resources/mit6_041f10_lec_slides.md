@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 398b84a7-66d3-682f-ee90-5e0016f4dba5
 resourcetype: Document
 title: Probabilistic Systems Analysis and Applied Probability, Complete Lecture Slides
 uid: 60eede37-f87f-d886-d4ba-574e1cf26617

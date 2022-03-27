@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 8d6aa3ff-4c7f-8b04-c393-ec12e6470e9f
 resourcetype: Document
 title: MIT6_041F10_tut11_sol.pdf
 uid: 9cb7f37d-ecba-88bb-0c8f-c9b1487c971b

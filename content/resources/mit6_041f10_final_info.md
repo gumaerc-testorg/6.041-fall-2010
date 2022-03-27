@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: eExams
 parent_type: CourseSection
+parent_uid: fa676672-66b4-16cd-9070-c155e20ea095
 resourcetype: Document
 title: MIT6_041F10_final_info.pdf
 uid: 49d68d1e-23d8-21e2-64d3-0c5c67a0ba67
