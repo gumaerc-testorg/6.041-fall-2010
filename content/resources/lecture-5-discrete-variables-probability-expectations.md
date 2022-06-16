@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Discrete Random Variables; Probability Mass Functions; Expectations
-  (PDF)](resources/mit6_041f10_l05)'
+  (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l05)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed random variables, probability mass function, expectation, and variance.
 
 **Instructor:** John Tsitsiklis
+
+
+

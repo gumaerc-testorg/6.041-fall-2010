@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Continuous Bayes'' Rule; Derived Distributions (PDF)](resources/mit6_041f10_l10)'
+optional_text: '[Continuous Bayes'' Rule; Derived Distributions (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l10)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed Bayes rule, Bayes variations, and derived distributions.
 
 **Instructor:** John Tsitsiklis
+
+
+

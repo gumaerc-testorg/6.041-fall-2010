@@ -1,18 +1,19 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3125'
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Classical Inference - III; Course Overview (PDF)](resources/mit6_041f10_l25)'
+optional_text: '[Classical Inference - III; Course Overview (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l25)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 25: Classical Inference III; Course Overview'
 uid: 524772af-b2a0-8dc9-31ea-c24bb1fa74fe
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed classical inference, simple binary hypothesis testing, and composite hypotheses testing.
 
 **Instructor:** John Tsitsiklis
+
+
+

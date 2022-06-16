@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Iterated Expectations; Sum of a Random Number of Random Variables
-  (PDF)](resources/mit6_041f10_l12)'
+  (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l12)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed conditional expectation and sum of a random number of random variables.
 
 **Instructor:** John Tsitsiklis
+
+
+

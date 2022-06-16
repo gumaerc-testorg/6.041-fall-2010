@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Bayesian Statistical Inference - II (PDF)](resources/mit6_041f10_l22)'
+optional_text: '[Bayesian Statistical Inference - II (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l22)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed Bayesian statistical inference, least means squares, and linear LMS estimation.
 
 **Instructor:** John Tsitsiklis
+
+
+
