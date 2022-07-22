@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, the course text and other references, grading, and a note
+  on study habits.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 427dfffa-c484-839a-3ad8-6fc520b4757b
 ---
@@ -36,7 +41,7 @@ The text for this course is:
 
 Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability_. 2nd ed. Athena Scientific, 2008. ISBN: 9781886529236.
 
-Solutions to end-of-chapter problems are available: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB](http://athenasc.com/prob-solved_2ndedition.pdf))
+Solutions to end-of-chapter problems are available: ([PDF - 1.5MB](http://athenasc.com/prob-solved_2ndedition.pdf))
 
 A few of these problems will be covered in recitation and tutorial. The remaining ones can be used for self-study (for best results, always try to solve a problem on your own, before reading the solution).
 
