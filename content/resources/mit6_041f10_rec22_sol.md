@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_041F10_rec22_sol.pdf
 uid: f0601d8b-3e6e-907a-09d8-94327220889a
 ---
 This resource contains solutions for the problem statements related to MAP and LMS estimates. 
-

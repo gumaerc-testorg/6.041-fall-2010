@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_041F10_tut10_sol.pdf
 uid: c2321834-4847-77de-a3ea-33c7c8f1db89
 ---
 This resource contains information related to deterministic and random variable.
-

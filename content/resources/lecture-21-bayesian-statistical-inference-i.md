@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Bayesian Statistical Inference - I (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l21)'
@@ -30,6 +31,4 @@ video_metadata:
 **Instructor:** John Tsitsiklis
 
 **Note:** The first few minutes of this video are missing.
-
-
 

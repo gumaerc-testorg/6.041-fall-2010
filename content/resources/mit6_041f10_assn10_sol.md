@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_041F10_assn10_sol.pdf
 uid: b1ae2430-87d9-7292-ac2f-34a9a31ddd6a
 ---
 This resource contains information related to asset’s gain.
-

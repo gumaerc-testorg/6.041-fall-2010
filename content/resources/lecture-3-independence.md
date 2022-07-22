@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Independence (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l03)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed independence of two events, independence of a collection of events, and independence vs. pairwise independence.
 
 **Instructor:** John Tsitsiklis
-
-
 

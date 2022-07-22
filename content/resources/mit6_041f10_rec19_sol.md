@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_041F10_rec19_sol.pdf
 uid: 6f55d90c-2dac-0f48-c41d-6e115b29d5bf
 ---
 This resource contains solutions for the problem statements related to probability. 
-

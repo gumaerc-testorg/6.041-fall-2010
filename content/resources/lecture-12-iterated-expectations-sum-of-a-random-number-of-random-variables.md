@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Iterated Expectations; Sum of a Random Number of Random Variables
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed conditional expectation and sum of a random number of random variables.
 
 **Instructor:** John Tsitsiklis
-
-
 

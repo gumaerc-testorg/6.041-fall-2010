@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Discrete Random Variable Examples; Joint PMFs (PDF)](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/mit6_041f10_l06)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed conditional PMF, geometric PMF, total expectation theorem, and joint PMF of two random variables.
 
 **Instructor:** John Tsitsiklis
-
-
 

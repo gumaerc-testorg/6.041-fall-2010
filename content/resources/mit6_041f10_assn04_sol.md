@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_041F10_assn04_sol.pdf
 uid: fdea3ff7-adc4-f8a4-e3d9-e15e38d52e90
 ---
 This resource contains information related to discrete uniform.
-

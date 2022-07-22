@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_041F10_assn07_sol.pdf
 uid: bd28701e-0dc7-8f8c-12b4-783628ee3dad
 ---
 This resource contains information related to binomial random variable.
-

@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_041F10_tut04_sol.pdf
 uid: 95fd5fe6-e460-7daa-ac90-13c2fb622e8a
 ---
 This resource contains information related to distribution.
-
