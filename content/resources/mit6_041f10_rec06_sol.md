@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to variance of the geometric distribution. '
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ac3fb796cdff0080e18b1f116e03d6c4_MIT6_041F10_rec06_sol.pdf
+file_size: 57402
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   probability and monty hall problem.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/70b08609ad338aae678cd2666d5aee74_MIT6_041F10_rec02_sol.pdf
+file_size: 58866
 file_type: application/pdf
 learning_resource_types:
 - Recitations

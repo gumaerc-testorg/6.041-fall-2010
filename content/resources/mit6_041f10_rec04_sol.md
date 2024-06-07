@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   the birthday problem, hypergeometric probabilities, and multinomial probabilities.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/f86e38378452fa30e7583b26e7362be0_MIT6_041F10_rec04_sol.pdf
+file_size: 103206
 file_type: application/pdf
 learning_resource_types:
 - Recitations

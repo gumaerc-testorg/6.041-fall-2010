@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to serial sub-system.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/bfadb76b9e97ce2053facf48fdafbee0_MIT6_041F10_tut01_sol.pdf
+file_size: 74284
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
