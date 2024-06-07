@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to Markov chains. '
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/6aeec039f46f21c7b94ab19c52d9cb38_MIT6_041F10_rec18_sol.pdf
+file_size: 59388
 file_type: application/pdf
 learning_resource_types:
 - Recitations

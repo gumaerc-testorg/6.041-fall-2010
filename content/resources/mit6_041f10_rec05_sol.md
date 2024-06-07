@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to probability and random variables. '
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/1c3bb2e08f5017ebf07a8b997559a1b2_MIT6_041F10_rec05_sol.pdf
+file_size: 335396
 file_type: application/pdf
 learning_resource_types:
 - Recitations

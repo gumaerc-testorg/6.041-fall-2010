@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to density functions.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/e4e257d67f5b8234ac3c5c0a418af3d4_MIT6_041F10_quiz02_review.pdf
+file_size: 94987
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
