@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to law of iterated expectations and law of total variance. '
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ed8a0116fcaf4c0bd79f5550454319ad_MIT6_041F10_rec13_sol.pdf
+file_size: 61686
 file_type: application/pdf
 learning_resource_types:
 - Recitations

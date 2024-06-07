@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to nonnegative number.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/3486dbc45f5d659e2d92c6814798b36d_MIT6_041F10_quiz01_review.pdf
+file_size: 166464
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

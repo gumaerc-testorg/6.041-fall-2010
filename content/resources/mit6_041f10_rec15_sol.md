@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to conditional probability and exponential random variables. '
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/faa5a9e6d2ca309a27385d8aa47144f2_MIT6_041F10_rec15_sol.pdf
+file_size: 67864
 file_type: application/pdf
 learning_resource_types:
 - Recitations
