@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to discrete and continuous random variables. '
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/900d0b8b3ee9be8b5b6238fe24bb564e_MIT6_041F10_rec11_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/900d0b8b3ee9be8b5b6238fe24bb564e_MIT6_041F10_rec11_sol.pdf
 file_size: 66770
 file_type: application/pdf
 learning_resource_types:

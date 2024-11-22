@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to normal distribution and central limit theorem. '
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/19166cb94ca0fd540c4bcf8985db9c53_MIT6_041F10_rec23_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/19166cb94ca0fd540c4bcf8985db9c53_MIT6_041F10_rec23_sol.pdf
 file_size: 29379
 file_type: application/pdf
 learning_resource_types:

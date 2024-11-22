@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to transition probabilities.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/4d7e39b8137390c092003b120c667f4d_MIT6_041F10_assn08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/4d7e39b8137390c092003b120c667f4d_MIT6_041F10_assn08_sol.pdf
 file_size: 151816
 file_type: application/pdf
 learning_resource_types:
