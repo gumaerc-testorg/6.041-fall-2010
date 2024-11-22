@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to bernoulli random variables.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/311e6dcde8cbf2dcc7c3d937aff0d075_MIT6_041F10_tut06_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/311e6dcde8cbf2dcc7c3d937aff0d075_MIT6_041F10_tut06_sol.pdf
 file_size: 89085
 file_type: application/pdf
 learning_resource_types:

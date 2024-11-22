@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to uniform random variable.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/b963082c26fe8f0ae7140a983d0f56e4_MIT6_041F10_quiz02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/b963082c26fe8f0ae7140a983d0f56e4_MIT6_041F10_quiz02_sol.pdf
 file_size: 131170
 file_type: application/pdf
 learning_resource_types: []

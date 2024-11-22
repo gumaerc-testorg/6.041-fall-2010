@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to discrete uniform.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/fdea3ff7adc4f8a4e3d9e15e38d52e90_MIT6_041F10_assn04_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/fdea3ff7adc4f8a4e3d9e15e38d52e90_MIT6_041F10_assn04_sol.pdf
 file_size: 147968
 file_type: application/pdf
 learning_resource_types:

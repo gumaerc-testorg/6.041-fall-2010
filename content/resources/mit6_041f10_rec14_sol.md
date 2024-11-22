@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to probability. '
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0ce3879f8d5fe9f487e0502c950b51df_MIT6_041F10_rec14_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0ce3879f8d5fe9f487e0502c950b51df_MIT6_041F10_rec14_sol.pdf
 file_size: 58899
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to distribution.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/95fd5fe6e4607daaac9013c2fb622e8a_MIT6_041F10_tut04_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/95fd5fe6e4607daaac9013c2fb622e8a_MIT6_041F10_tut04_sol.pdf
 file_size: 55357
 file_type: application/pdf
 learning_resource_types:
