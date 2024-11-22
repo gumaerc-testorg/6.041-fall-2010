@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to poisson process.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/2c0845ad4868aced0abcc3b5d81366e3_MIT6_041F10_tut08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/2c0845ad4868aced0abcc3b5d81366e3_MIT6_041F10_tut08_sol.pdf
 file_size: 87549
 file_type: application/pdf
 learning_resource_types:

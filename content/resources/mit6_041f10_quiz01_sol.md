@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to expectation and variance.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0bb39587ca8bce4da2f321ebb6d659cc_MIT6_041F10_quiz01_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/0bb39587ca8bce4da2f321ebb6d659cc_MIT6_041F10_quiz01_sol.pdf
 file_size: 96774
 file_type: application/pdf
 learning_resource_types: []

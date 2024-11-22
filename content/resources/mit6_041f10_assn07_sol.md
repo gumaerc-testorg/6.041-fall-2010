@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to binomial random variable.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/bd28701e0dc78f8c12b4783628ee3dad_MIT6_041F10_assn07_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/bd28701e0dc78f8c12b4783628ee3dad_MIT6_041F10_assn07_sol.pdf
 file_size: 137513
 file_type: application/pdf
 learning_resource_types:

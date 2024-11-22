@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information related to asset\u2019s gain."
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/b1ae243087d97292ac2f34a9a31ddd6a_MIT6_041F10_assn10_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/b1ae243087d97292ac2f34a9a31ddd6a_MIT6_041F10_assn10_sol.pdf
 file_size: 143933
 file_type: application/pdf
 learning_resource_types:
