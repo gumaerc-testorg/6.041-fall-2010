@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/3e9767328a1f5960b751906adf2a3352_EObHWIEKGjA.vtt
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/3e9767328a1f5960b751906adf2a3352_EObHWIEKGjA.vtt
 file_size: 67810
 file_type: application/x-subrip
 learning_resource_types: []
