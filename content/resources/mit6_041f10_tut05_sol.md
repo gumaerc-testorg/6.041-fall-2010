@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to joint density.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/864ebf4deba343514ed69692f3a8398f_MIT6_041F10_tut05_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/864ebf4deba343514ed69692f3a8398f_MIT6_041F10_tut05_sol.pdf
 file_size: 77737
 file_type: application/pdf
 image_metadata:

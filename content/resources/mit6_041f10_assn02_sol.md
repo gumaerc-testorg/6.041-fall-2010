@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to bayes\u2019 rule."
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/9ff5eda7b7032ccefe4270d5f8e2cab0_MIT6_041F10_assn02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/9ff5eda7b7032ccefe4270d5f8e2cab0_MIT6_041F10_assn02_sol.pdf
 file_size: 117957
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to required normalization
   property.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/d7bdb82c344a0ba36de6b6b086689d87_MIT6_041F10_assn05_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/d7bdb82c344a0ba36de6b6b086689d87_MIT6_041F10_assn05_sol.pdf
 file_size: 202575
 file_type: application/pdf
 image_metadata:

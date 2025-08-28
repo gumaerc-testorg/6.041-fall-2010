@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to non-negative integer solutions.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/fe34c807d939cf00462639469cc5af6d_MIT6_041F10_assn03_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/fe34c807d939cf00462639469cc5af6d_MIT6_041F10_assn03_sol.pdf
 file_size: 109185
 file_type: application/pdf
 image_metadata:

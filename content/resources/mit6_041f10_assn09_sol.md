@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to chebyshev inequality.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/574c527a2dfb3412ca19aebe1a736823_MIT6_041F10_assn09_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/574c527a2dfb3412ca19aebe1a736823_MIT6_041F10_assn09_sol.pdf
 file_size: 140120
 file_type: application/pdf
 image_metadata:
