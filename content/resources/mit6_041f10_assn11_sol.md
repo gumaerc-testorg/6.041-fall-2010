@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to conditional density.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cf688d7d9046abe1d1c8d0f399807728_MIT6_041F10_assn11_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cf688d7d9046abe1d1c8d0f399807728_MIT6_041F10_assn11_sol.pdf
 file_size: 606777
 file_type: application/pdf
 image_metadata:

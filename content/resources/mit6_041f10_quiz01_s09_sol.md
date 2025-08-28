@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to simultaneously and independently.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/65d151f4c61eb42a98d01ba2cc2d4dc0_MIT6_041F10_quiz01_s09_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/65d151f4c61eb42a98d01ba2cc2d4dc0_MIT6_041F10_quiz01_s09_sol.pdf
 file_size: 199051
 file_type: application/pdf
 image_metadata:

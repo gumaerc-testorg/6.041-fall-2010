@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to markov chain.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/64230cd7298294d4a580eba7366d743f_MIT6_041F10_final_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/64230cd7298294d4a580eba7366d743f_MIT6_041F10_final_sol.pdf
 file_size: 194129
 file_type: application/pdf
 image_metadata:

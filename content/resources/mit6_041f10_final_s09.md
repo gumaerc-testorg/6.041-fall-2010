@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to marginal pdf.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/d17e6742a03ef89a71498de04d1415ac_MIT6_041F10_final_s09.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/d17e6742a03ef89a71498de04d1415ac_MIT6_041F10_final_s09.pdf
 file_size: 155076
 file_type: application/pdf
 image_metadata:
