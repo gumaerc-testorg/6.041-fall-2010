@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to non-zeroprobability.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/3319a9ca4cf8a26e58c8d511990ee28b_MIT6_041F10_tut02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/3319a9ca4cf8a26e58c8d511990ee28b_MIT6_041F10_tut02_sol.pdf
 file_size: 81815
 file_type: application/pdf
 image_metadata:

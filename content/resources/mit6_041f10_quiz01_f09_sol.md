@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to probabilities.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/98ee667994475a9d640de01413c6e5b4_MIT6_041F10_quiz01_f09_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/98ee667994475a9d640de01413c6e5b4_MIT6_041F10_quiz01_f09_sol.pdf
 file_size: 63238
 file_type: application/pdf
 image_metadata:

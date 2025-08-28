@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to deterministic and random
   variable.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/c2321834484777dea3ea33c7c8f1db89_MIT6_041F10_tut10_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/c2321834484777dea3ea33c7c8f1db89_MIT6_041F10_tut10_sol.pdf
 file_size: 80631
 file_type: application/pdf
 image_metadata:

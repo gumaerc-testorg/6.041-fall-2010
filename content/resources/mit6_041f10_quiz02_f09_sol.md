@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to random variable.
 draft: false
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cc7b107531e05902fdb5cbfbafc87542_MIT6_041F10_quiz02_f09_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/cc7b107531e05902fdb5cbfbafc87542_MIT6_041F10_quiz02_f09_sol.pdf
 file_size: 116727
 file_type: application/pdf
 image_metadata:
